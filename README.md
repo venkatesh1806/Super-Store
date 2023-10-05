@@ -7,13 +7,13 @@ The enriched retail dashboard overview offers a detailed, real-time view into th
 The dashboard offers robust Power BI row-level security features that control the access to rows and implements restrictions, based on user privileges and authentication. Specific security roles and role-based filters can be defined within the dashboard, to ensure effective row-level security.
 
 
-Sales: Region-wise/category wise sales, top countries where the sale is highest, top-performing products, and month-wise sales trend
+**Sales:** Region-wise/category wise sales, top countries where the sale is highest, top-performing products, and month-wise sales trend
 
-Profits: Monthly profits, profitable/unprofitable regions, category/sub-category wise profits, most profitable customers
+**Profits:** Monthly profits, profitable/unprofitable regions, category/sub-category wise profits, most profitable customers
 
-Orders: Details of orders received category and sub-category wise, location and segment-wise, customers who ordered most, the effect of orders received on profits
+**Orders:** Details of orders received category and sub-category wise, location and segment-wise, customers who ordered most, the effect of orders received on profits
 
-Shipping: Shipping details like the cost for shipping, customer preference, and locations where products were shipped, the average cost of shipping as against total shipment
+**Shipping:**Shipping details like the cost for shipping, customer preference, and locations where products were shipped, the average cost of shipping as against total shipment
 
  
 *****Key Measures********
