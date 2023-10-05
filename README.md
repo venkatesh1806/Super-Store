@@ -1,4 +1,4 @@
-# Super-Store
+# Super-Store Retail Dashboard
 
 This comprehensive retail dashboard created with Power BI encompasses all-important analytics and metrics that are of great value to the retail business and offers enhanced visibility. Categorized in different segments like sales, profit, order, and shipping, the live dashboard depicts drill down details offering better forecasting and timesaving efficacy.
 
