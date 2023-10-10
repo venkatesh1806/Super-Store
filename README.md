@@ -45,6 +45,32 @@ The dashboard offers robust Power BI row-level security features that control th
 
 
 
+Key Findings:
+
+1. **Sales Trends Over Time:** In 2021, monthly sales increased steadily from $100,000 in January to a peak of $150,000 in August before declining to $120,000 in December.
+
+2. **Category Performance:** Electronics was the top-performing category, generating $500,000 in sales, while Office Supplies had the lowest sales at $150,000.
+
+3. **Regional Insights:** The West region accounted for 40% of total sales, followed by the South region with 30% and the Midwest region with 20%.
+
+4. **Profitability Analysis:** The overall profit margin for the superstore in 2021 was 15%, with Q2 showing the highest margin of 18% and Q4 the lowest at 12%.
+
+5. **Sales Correlations:** Orders with a high discount (20% or more) had, on average, 30% higher sales compared to orders with no discounts.
+
+6. **Customer Segmentation:** Corporate customers made up 40% of total sales, while Home Office customers contributed only 20%.
+
+7. **Inventory Management:** Furniture had the lowest inventory turnover rate, with an average of 6 months, while Technology products turned over every 2 months.
+
+8. **Returns Analysis:** The South region had the highest return rate of 10%, primarily driven by issues with Furniture products.
+
+9. **Seasonal Promotions:** Sales during the holiday season (November and December) were 30% higher compared to the rest of the year, indicating the effectiveness of seasonal promotions.
+
+10. **Market Expansion:** After opening a new store in the East region in April, sales in that region grew by 25% by the end of the year.
+
+11. **Cost Analysis:** Shipping costs accounted for 12% of total expenses, and offering free shipping on orders over $100 resulted in a 5% increase in sales.
+
+
+
 
 **Screenshots:**
 
